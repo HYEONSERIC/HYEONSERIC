@@ -4,7 +4,7 @@
 # Hyeonsu Choi (hyeonseric)
 
 Computer Science Student • he/him  
-[포트폴리오](https://hyeonseric.github.io/portfolio) · [이메일](mailto:hscet990425@gmail.com)
+[포트폴리오](https://hyeonseric.github.io/My_portfolio/) · [이메일](mailto:hscet990425@gmail.com)
 
 ## Tech
 ![Java](https://img.shields.io/badge/Java-007396?logo=java)
