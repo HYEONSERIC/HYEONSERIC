@@ -19,3 +19,4 @@ Computer Science Student • he/him
 ## Projects
 - **DayVegan** – 비건 베이커리 주문/예약 데모
 - **Interactive Study Group Finder** – 스터디 그룹 웹앱
+- **GoodBus 입찰기반 버스임대 플랫폼
