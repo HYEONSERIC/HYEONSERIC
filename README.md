@@ -117,7 +117,7 @@
 | Project | Description | Stack |
 |---|---|---|
 | **[GoodBus](https://github.com/hyeonseric/GoodBus)** 🔗 [busrent.co.kr](https://busrent.co.kr/) | 승객-기사-버스회사 매칭 입찰 기반 버스 임대 플랫폼. 역할별 대시보드, 관리자 콘솔, 실시간 입찰/낙찰 플로우 구현 | Next.js 16, TypeScript, Tailwind CSS, shadcn/ui, Node.js/Express, PostgreSQL, Prisma, JWT, Docker |
-| **[Interactive Study Group Finder](https://github.com/BAEBAEHYC/Interactive_Study_Group_Finder)** | 스터디 그룹 매칭 웹앱 (SWE 팀 프로젝트) | Java, MySQL |
+| **[Interactive Study Group Finder](https://github.com/BAEBAEHYC/Interactive_Study_Group_Finder)** | 스터디 그룹 매칭 웹앱 (SWE 팀 프로젝트) | Python, PostgreSQL,FastApi |
 | **DayVegan** | 비건 베이커리 주문/예약 데모 | — |
 
 </div>
